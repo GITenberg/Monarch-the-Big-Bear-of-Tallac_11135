@@ -1,0 +1,37 @@
+_repo: Monarch-the-Big-Bear-of-Tallac_11135
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Seton, Ernest Thompson
+    aliases:
+    - Seton-Thompson, Ernest
+    - Seton-Thomson, Ernest
+    - Thompson-Seton, Ernest
+    - Seton, Wolf
+    birthdate: 1860
+    deathdate: 1946
+    gutenberg_agent_id: '535'
+    url: http://www.gutenberg.org/2009/agents/535
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_Thompson_Seton
+description: Go to top; The Two Springs; "The pony bounded in terror while the Grizzly
+  ran almost alongside"; The Springs and the Miner's Dam; "Jack ate till his paunch
+  looked like a rubber balloon"; The Trout Pool; The Stream that Sank in the Sand;
+  "Jack ... held up his sticky, greasy arms"; The River Held in the Foothills; The
+  Broken Dam; The Freshet; The Thirty-foot Bear; Roaring in the Cañon; Fire and Water;
+  The Eddy; The Ford; "'Now, B'ar, I don't want no scrap with you'"; Swirl and Pool
+  and Growing Flood; The Deepening Channel; The Cataract; "Rumbling and snorting,
+  he made for the friendly hills."
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11135'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bears'
+- !lcc 'QL'
+- GITenberg
+title: Monarch, the Big Bear of Tallac
+url: http://www.gutenberg.org/ebooks/11135
