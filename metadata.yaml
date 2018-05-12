@@ -1,5 +1,8 @@
 _repo: Monarch-the-Big-Bear-of-Tallac_11135
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Seton, Ernest Thompson
@@ -21,6 +24,8 @@ description: Go to top; The Two Springs; "The pony bounded in terror while the G
   The Eddy; The Ford; "'Now, B'ar, I don't want no scrap with you'"; Swirl and Pool
   and Growing Flood; The Deepening Channel; The Cataract; "Rumbling and snorting,
   he made for the friendly hills."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11135#Monarch-the-Big-Bear-of-Tallac
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
